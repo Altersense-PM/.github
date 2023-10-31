@@ -10,7 +10,5 @@ At [AlterSense](https://altersense.com), we creatively connect the dots through 
 <br>
 
   <a href="https://github.com/altersense-developers"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="3%" alt="AlterSense GitHub"></a>
-  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%">
   <a href="https://www.linkedin.com/company/altersense-limited/"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-linkedin.png" width="3%" alt="AlterSense LinkedIn"></a>
-  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%">
 </div>
