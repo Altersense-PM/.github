@@ -3,7 +3,7 @@
   <img width="900" src="https://media.licdn.com/dms/image/C561BAQFHiboa5FsZ2w/company-background_10000/0/1632122220535/altersense_limited_cover?e=1699354800&v=beta&t=pxpJ0U5qNwEuUbO0cbFZEKqvOreWtdLfSgupEhBOuKM"></a>
 </p>
 
-<div align="center">
+<div align="left">
 AlterSense is a creative tech company that specializes in AI for real-time computer vision and immersive technologies. Having an alternative look towards the problem and making sense of data, we creatively connect the dots through pioneering technology to develop entirely new solutions. 
   
 At [AlterSense](https://altersense.com), we creatively connect the dots through pioneering technology to develop entirely new solutions.
