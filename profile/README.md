@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://altersense.com/">
-  <img width="900" src="https://media.licdn.com/dms/image/C561BAQFHiboa5FsZ2w/company-background_10000/0/1632122220535/altersense_limited_cover?e=1699354800&v=beta&t=pxpJ0U5qNwEuUbO0cbFZEKqvOreWtdLfSgupEhBOuKM"></a>
+  <img width="900" src="https://www.altersense.com/Images/site-logo.png"></a>
 </p>
 
 <div align="left">
