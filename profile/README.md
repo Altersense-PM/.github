@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://altersense.com/">
-  <img width="900" src="https://www.altersense.com/Images/site-logo.png"></a>
+  <img width="900" src="https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/242601912_103526075424714_1604747116194527109_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=783fdb&_nc_ohc=beQTHOZhRB4AX_88Jt7&_nc_ht=scontent.fdac14-1.fna&oh=00_AfBup6Tix26RxHS29EvIDas51qgSaqHDs61QTmH7adSswg&oe=659D8900"></a>
 </p>
 
 <div align="left">
