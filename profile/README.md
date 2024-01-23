@@ -1,5 +1,5 @@
 <a href="https://altersense.com/">
-<img width="900" src="https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/242601912_103526075424714_1604747116194527109_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=783fdb&_nc_ohc=beQTHOZhRB4AX_88Jt7&_nc_ht=scontent.fdac14-1.fna&oh=00_AfBup6Tix26RxHS29EvIDas51qgSaqHDs61QTmH7adSswg&oe=659D8900">
+<img width="900" src="https://media.licdn.com/dms/image/C561BAQFHiboa5FsZ2w/company-background_10000/0/1632122222009/altersense_limited_cover?e=2147483647&v=beta&t=uYRKpXl6MReeBylUdRb5LqJk5csFeNiEngRFySLIzR8">
 </a>
 
 AlterSense stands at the forefront of creative technology, specializing in AI-driven solutions for real-time computer vision and immersive experiences. With a distinctive approach to problem-solving, we excel in synthesizing complex data, connecting the dots in innovative ways to pioneer groundbreaking technology. Our commitment to creativity is not just a process, but a cornerstone of our philosophy, fueling the development of revolutionary solutions. The integration of advanced AI technology elevates our offerings to new heights, solidifying our position as creators of game-changing products in the tech landscape."
